@@ -34,7 +34,7 @@ const { chromium, devices } = require('playwright');
         precio = await page.textContent('[class="total"]')
     }
     console.log('MONSTER HUNTER: ' + precio)
-    content =null
+    precio =null
 
     await page.goto('https://www.instant-gaming.com/es/13083-comprar-steam-silent-hill-2-pc-juego-steam-europe/')
     content = await page.textContent('[class="amount"]')
@@ -42,7 +42,7 @@ const { chromium, devices } = require('playwright');
         precio = await page.textContent('[class="total"]')
     }
     console.log('Silent hill 2: ' + precio)
-    content =null
+    precio =null
 
 
 
