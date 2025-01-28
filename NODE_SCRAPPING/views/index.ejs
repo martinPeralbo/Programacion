@@ -1,0 +1,34 @@
+<!-- filepath: /c:/Users/peral/Desktop/Programacion/NODE_SCRAPPING/views/index.ejs -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scraping Results</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .result {
+            margin-bottom: 20px;
+        }
+        .name {
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+        .price {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>Scraping Results</h1>
+    <% results.forEach(result => { %>
+        <div class="result">
+            <div class="name"><%= result.name %></div>
+            <div class="price"><%= result.precio %></div>
+        </div>
+    <% }) %>
+</body>
+</html>
