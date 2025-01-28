@@ -19,7 +19,7 @@ const { chromium } = require('playwright');
             precio = await page.textContent('[class="total"]');
         }
 
-        console.log(`${name}: ${precio || content}`);
+        console.log(`${name}: ${precio}`);
     }
 
     await browser.close();
