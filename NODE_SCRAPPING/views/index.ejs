@@ -35,8 +35,22 @@
             margin-bottom: 10px;
             text-align: center;
         }
+        .link {
+            color: #00ff00; /* Enlace en verde claro */
+            text-decoration: none;
+            margin-bottom: 10px;
+        }
         .price {
-            color: #00ff00; /* Precio en verde claro */
+            margin-bottom: 5px;
+        }
+        .price.actual {
+            color: white; /* Precio actual por defecto en blanco */
+        }
+        .price.actual.lower {
+            color: green; /* Precio actual menor al mínimo en verde */
+        }
+        .price.actual.higher {
+            color: red; /* Precio actual mayor al máximo en rojo */
         }
     </style>
 </head>
@@ -47,7 +61,12 @@
             <div class="result">
                 <img class="cover" src="<%= result.imageUrl %>" alt="<%= result.name %> cover">
                 <div class="name"><%= result.name %></div>
-                <div class="price"><%= result.price %></div>
+                <a class="link" href="<%= result.url %>" target="_blank">Ver juego</a>
+                <div class="price actual <%= parseFloat(result.price) < parseFloat(result.minPrice) ? 'lower' : parseFloat(result.price) > parseFloat(result.maxPrice) ? 'higher' : '' %>">
+                    Actual: <%= result.price %>€
+                </div>
+                <div class="price">Mínimo: <%= result.minPrice %>€</div>
+                <div class="price">Máximo: <%= result.maxPrice %>€</div>
             </div>
         <% }) %>
     </div>

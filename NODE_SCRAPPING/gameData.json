@@ -1,0 +1,482 @@
+{
+  "Kingdom Come: Deliverance II Gold Edition": {
+    "url": null,
+    "name": "Kingdom Come: Deliverance II Gold Edition",
+    "price": 55.79,
+    "imageUrl": "https://gaming-cdn.com/images/products/17459/380x218/kingdom-come-deliverance-ii-gold-edition-gold-edition-pc-juego-steam-europe-us-canada-cover.jpg?v=1736240213",
+    "minPrice": 55.79,
+    "maxPrice": 55.79
+  },
+  "Path Of Exile 2": {
+    "url": null,
+    "name": "Path Of Exile 2",
+    "price": 16.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/5813/380x218/path-of-exile-2-pc-juego-steam-cover.jpg?v=1738155569",
+    "minPrice": 16.99,
+    "maxPrice": 16.99
+  },
+  "Assetto Corsa Evo": {
+    "url": null,
+    "name": "Assetto Corsa Evo",
+    "price": 22.89,
+    "imageUrl": "https://gaming-cdn.com/images/products/13807/380x218/assetto-corsa-evo-pc-juego-steam-europe-us-canada-cover.jpg?v=1737469206",
+    "minPrice": 21.89,
+    "maxPrice": 22.89
+  },
+  "Monster Hunter Wilds": {
+    "url": null,
+    "name": "Monster Hunter Wilds",
+    "price": 47.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/7930/380x218/monster-hunter-wilds-pc-juego-steam-europe-cover.jpg?v=1732522160",
+    "minPrice": 47.99,
+    "maxPrice": 47.99
+  },
+  "Sniper Elite: Resistance Deluxe Edition + Acceso anticipado": {
+    "url": null,
+    "name": "Sniper Elite: Resistance Deluxe Edition + Acceso anticipado",
+    "price": 52.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/18527/380x218/sniper-elite-resistance-deluxe-edition-acceso-anticipado-deluxe-edition-pc-juego-steam-europe-us-canada-cover.jpg?v=1738140813",
+    "minPrice": 52.99,
+    "maxPrice": 52.99
+  },
+  "Murky Divers": {
+    "url": null,
+    "name": "Murky Divers",
+    "price": 3.72,
+    "imageUrl": "https://gaming-cdn.com/images/products/17137/380x218/murky-divers-pc-juego-steam-cover.jpg?v=1724074717",
+    "minPrice": 3.72,
+    "maxPrice": 3.72
+  },
+  "Sniper Elite: Resistance": {
+    "url": null,
+    "name": "Sniper Elite: Resistance",
+    "price": 33.89,
+    "imageUrl": "https://gaming-cdn.com/images/products/17428/380x218/sniper-elite-resistance-pc-juego-steam-europe-us-canada-cover.jpg?v=1738141075",
+    "minPrice": 33.89,
+    "maxPrice": 33.89
+  },
+  "Sid Meier’s Civilization VII Founders Edition + Acceso anticipado": {
+    "url": null,
+    "name": "Sid Meier’s Civilization VII Founders Edition + Acceso anticipado",
+    "price": 93.19,
+    "imageUrl": "https://gaming-cdn.com/images/products/17443/380x218/sid-meier-s-civilization-vii-founders-edition-acceso-anticipado-founders-edition-pc-juego-steam-europe-cover.jpg?v=1738061240",
+    "minPrice": 93.19,
+    "maxPrice": 93.19
+  },
+  "Monster Hunter Wilds Premium Deluxe Edition": {
+    "url": null,
+    "name": "Monster Hunter Wilds Premium Deluxe Edition",
+    "price": 74.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/17601/380x218/monster-hunter-wilds-premium-deluxe-edition-premium-deluxe-edition-pc-juego-steam-europe-cover.jpg?v=1736952904",
+    "minPrice": 74.99,
+    "maxPrice": 74.99
+  },
+  "Final Fantasy VII Rebirth": {
+    "url": null,
+    "name": "Final Fantasy VII Rebirth",
+    "price": 39.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/10365/380x218/final-fantasy-vii-rebirth-pc-juego-steam-cover.jpg?v=1737652046",
+    "minPrice": 39.99,
+    "maxPrice": 39.99
+  },
+  "Farming Simulator 25": {
+    "url": null,
+    "name": "Farming Simulator 25",
+    "price": 29.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/16993/380x218/farming-simulator-25-pc-mac-juego-steam-cover.jpg?v=1731485914",
+    "minPrice": 29.99,
+    "maxPrice": 29.99
+  },
+  "Aloft": {
+    "url": null,
+    "name": "Aloft",
+    "price": 19.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/17120/380x218/aloft-pc-juego-steam-cover.jpg?v=1737291244",
+    "minPrice": 19.99,
+    "maxPrice": 19.99
+  },
+  "Los Sims 4 Vida y Más Allá": {
+    "url": null,
+    "name": "Los Sims 4 Vida y Más Allá",
+    "price": 23.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/16902/380x218/los-sims-4-vida-y-mas-alla-pc-juego-ea-app-cover.jpg?v=1730382714",
+    "minPrice": 23.99,
+    "maxPrice": 23.99
+  },
+  "Tails of Iron 2: Whiskers of Winter": {
+    "url": null,
+    "name": "Tails of Iron 2: Whiskers of Winter",
+    "price": 17.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/16475/380x218/tails-of-iron-2-whiskers-of-winter-pc-mac-juego-steam-europe-us-canada-cover.jpg?v=1738141369",
+    "minPrice": 17.99,
+    "maxPrice": 17.99
+  },
+  "MiSide": {
+    "url": null,
+    "name": "MiSide",
+    "price": 10.89,
+    "imageUrl": "https://gaming-cdn.com/images/products/18312/380x218/miside-pc-juego-steam-cover.jpg?v=1734423797",
+    "minPrice": 10.89,
+    "maxPrice": 10.89
+  },
+  "Kingdom Come: Deliverance II": {
+    "url": null,
+    "name": "Kingdom Come: Deliverance II",
+    "price": 42.79,
+    "imageUrl": "https://gaming-cdn.com/images/products/8988/380x218/kingdom-come-deliverance-ii-pc-juego-steam-europe-us-canada-cover.jpg?v=1737034792",
+    "minPrice": 42.79,
+    "maxPrice": 42.79
+  },
+  "NBA 2K25": {
+    "url": null,
+    "name": "NBA 2K25",
+    "price": 21.98,
+    "imageUrl": "https://gaming-cdn.com/images/products/17194/380x218/nba-2k25-pc-juego-steam-europe-cover.jpg?v=1731919092",
+    "minPrice": 21.98,
+    "maxPrice": 21.98
+  },
+  "Dynasty Warriors: Origins": {
+    "url": null,
+    "name": "Dynasty Warriors: Origins",
+    "price": 52.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/16950/380x218/dynasty-warriors-origins-pc-juego-steam-europe-cover.jpg?v=1737543872",
+    "minPrice": 52.99,
+    "maxPrice": 52.99
+  },
+  "Final Fantasy VII Remake & Rebirth Twin Pack": {
+    "url": null,
+    "name": "Final Fantasy VII Remake & Rebirth Twin Pack",
+    "price": 55.89,
+    "imageUrl": "https://gaming-cdn.com/images/products/18321/380x218/final-fantasy-vii-remake-rebirth-twin-pack-twin-pack-pc-juego-steam-cover.jpg?v=1737652091",
+    "minPrice": 55.89,
+    "maxPrice": 55.89
+  },
+  "Sid Meier’s Civilization VII": {
+    "url": null,
+    "name": "Sid Meier’s Civilization VII",
+    "price": 50.49,
+    "imageUrl": "https://gaming-cdn.com/images/products/9371/380x218/sid-meier-s-civilization-vii-pc-juego-steam-europe-cover.jpg?v=1737471982",
+    "minPrice": 50.49,
+    "maxPrice": 50.49
+  },
+  "Tails of Iron 2: Whiskers of Winter Deluxe Edition": {
+    "url": null,
+    "name": "Tails of Iron 2: Whiskers of Winter Deluxe Edition",
+    "price": null,
+    "imageUrl": "https://gaming-cdn.com/images/products/18478/380x218/tails-of-iron-2-whiskers-of-winter-deluxe-edition-deluxe-edition-pc-mac-juego-steam-europe-us-canada-cover.jpg?v=1738084158",
+    "minPrice": 0,
+    "maxPrice": 0
+  },
+  "Warhammer 40,000: Space Marine 2": {
+    "url": null,
+    "name": "Warhammer 40,000: Space Marine 2",
+    "price": 37.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/10140/380x218/warhammer-40-000-space-marine-2-pc-juego-steam-cover.jpg?v=1725274116",
+    "minPrice": 37.99,
+    "maxPrice": 37.99
+  },
+  "The Last Of Us Part II Remastered": {
+    "url": null,
+    "name": "The Last Of Us Part II Remastered",
+    "price": 36.49,
+    "imageUrl": "https://gaming-cdn.com/images/products/6215/380x218/the-last-of-us-part-ii-remastered-pc-juego-steam-europe-cover.jpg?v=1737707852",
+    "minPrice": 36.49,
+    "maxPrice": 36.49
+  },
+  "Ready or Not LSPD Bundle": {
+    "url": null,
+    "name": "Ready or Not LSPD Bundle",
+    "price": 37.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/18269/380x218/ready-or-not-lspd-bundle-lspd-bundle-pc-juego-steam-cover.jpg?v=1737138348",
+    "minPrice": 37.99,
+    "maxPrice": 37.99
+  },
+  "Black Myth: Wukong": {
+    "url": null,
+    "name": "Black Myth: Wukong",
+    "price": 47.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/7678/380x218/black-myth-wukong-pc-juego-steam-europe-us-canada-cover.jpg?v=1728309382",
+    "minPrice": 47.99,
+    "maxPrice": 47.99
+  },
+  "Sid Meier’s Civilization VII Deluxe Edition + Acceso anticipado": {
+    "url": null,
+    "name": "Sid Meier’s Civilization VII Deluxe Edition + Acceso anticipado",
+    "price": 73.49,
+    "imageUrl": "https://gaming-cdn.com/images/products/17444/380x218/sid-meier-s-civilization-vii-deluxe-edition-acceso-anticipado-deluxe-edition-pc-juego-steam-europe-cover.jpg?v=1738061246",
+    "minPrice": 73.49,
+    "maxPrice": 73.49
+  },
+  "Monster Hunter Wilds Deluxe Edition": {
+    "url": null,
+    "name": "Monster Hunter Wilds Deluxe Edition",
+    "price": 61.49,
+    "imageUrl": "https://gaming-cdn.com/images/products/17598/380x218/monster-hunter-wilds-deluxe-edition-deluxe-edition-pc-juego-steam-europe-cover.jpg?v=1736941292",
+    "minPrice": 61.49,
+    "maxPrice": 61.49
+  },
+  "Ready or Not: Dark Waters": {
+    "url": null,
+    "name": "Ready or Not: Dark Waters",
+    "price": 8.78,
+    "imageUrl": "https://gaming-cdn.com/images/products/18243/380x218/ready-or-not-dark-waters-pc-juego-steam-europe-us-canada-cover.jpg?v=1733933086",
+    "minPrice": 8.78,
+    "maxPrice": 8.78
+  },
+  "Assassin’s Creed Shadows Deluxe Edition": {
+    "url": null,
+    "name": "Assassin’s Creed Shadows Deluxe Edition",
+    "price": 65.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/16831/380x218/assassin-s-creed-shadows-deluxe-edition-deluxe-edition-pc-juego-ubisoft-connect-cover.jpg?v=1737668450",
+    "minPrice": 65.99,
+    "maxPrice": 65.99
+  },
+  "Star Wars Outlaws": {
+    "url": null,
+    "name": "Star Wars Outlaws",
+    "price": 26.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/14344/380x218/star-wars-outlaws-pc-juego-ubisoft-connect-cover.jpg?v=1734621385",
+    "minPrice": 26.99,
+    "maxPrice": 26.99
+  },
+  "The Lord of the Rings: Return to Moria": {
+    "url": null,
+    "name": "The Lord of the Rings: Return to Moria",
+    "price": 15.59,
+    "imageUrl": "https://gaming-cdn.com/images/products/14332/380x218/the-lord-of-the-rings-return-to-moria-pc-juego-steam-cover.jpg?v=1726816358",
+    "minPrice": 15.59,
+    "maxPrice": 15.59
+  },
+  "Microsoft Flight Simulator 2024 (PC / Xbox Series X|S)": {
+    "url": null,
+    "name": "Microsoft Flight Simulator 2024 (PC / Xbox Series X|S)",
+    "price": 48.49,
+    "imageUrl": "https://gaming-cdn.com/images/products/17684/380x218/microsoft-flight-simulator-2024-pc-xbox-series-x-s-pc-xbox-series-x-s-juego-microsoft-store-cover.jpg?v=1737544631",
+    "minPrice": 48.49,
+    "maxPrice": 48.49
+  },
+  "S.T.A.L.K.E.R. 2: Heart of Chornobyl": {
+    "url": null,
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "price": 36.67,
+    "imageUrl": "https://gaming-cdn.com/images/products/5376/380x218/s-t-a-l-k-e-r-2-heart-of-chornobyl-pc-juego-steam-europe-cover.jpg?v=1732887501",
+    "minPrice": 36.67,
+    "maxPrice": 36.67
+  },
+  "Crusader Kings III: Roads to Power": {
+    "url": null,
+    "name": "Crusader Kings III: Roads to Power",
+    "price": 22.49,
+    "imageUrl": "https://gaming-cdn.com/images/products/17579/380x218/crusader-kings-iii-roads-to-power-pc-mac-juego-steam-europe-us-canada-cover.jpg?v=1727434827",
+    "minPrice": 22.49,
+    "maxPrice": 22.49
+  },
+  "Final Fantasy VII Rebirth Digital Deluxe Edition": {
+    "url": null,
+    "name": "Final Fantasy VII Rebirth Digital Deluxe Edition",
+    "price": 49.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/18308/380x218/final-fantasy-vii-rebirth-digital-deluxe-edition-digital-deluxe-edition-pc-juego-steam-cover.jpg?v=1737652072",
+    "minPrice": 49.99,
+    "maxPrice": 49.99
+  },
+  "Assassin's Creed Shadows": {
+    "url": null,
+    "name": "Assassin's Creed Shadows",
+    "price": 49.89,
+    "imageUrl": "https://gaming-cdn.com/images/products/12831/380x218/assassin-s-creed-shadows-pc-juego-ubisoft-connect-cover.jpg?v=1737668444",
+    "minPrice": 49.89,
+    "maxPrice": 49.89
+  },
+  "God of War: Ragnarök - Digital Deluxe Edition": {
+    "url": null,
+    "name": "God of War: Ragnarök - Digital Deluxe Edition",
+    "price": 51.59,
+    "imageUrl": "https://gaming-cdn.com/images/products/16970/380x218/god-of-war-ragnarok-digital-deluxe-edition-digital-deluxe-edition-pc-juego-steam-europe-cover.jpg?v=1729767551",
+    "minPrice": 51.59,
+    "maxPrice": 51.59
+  },
+  "Core Keeper": {
+    "url": null,
+    "name": "Core Keeper",
+    "price": 11.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/10564/380x218/core-keeper-pc-juego-steam-europe-cover.jpg?v=1734088268",
+    "minPrice": 11.99,
+    "maxPrice": 11.99
+  },
+  "Ender Magnolia: Bloom in the Mist": {
+    "url": null,
+    "name": "Ender Magnolia: Bloom in the Mist",
+    "price": 19.89,
+    "imageUrl": "https://gaming-cdn.com/images/products/16573/380x218/ender-magnolia-bloom-in-the-mist-pc-juego-steam-cover.jpg?v=1737719387",
+    "minPrice": 19.89,
+    "maxPrice": 19.89
+  },
+  "Ravenswatch": {
+    "url": null,
+    "name": "Ravenswatch",
+    "price": 14.41,
+    "imageUrl": "https://gaming-cdn.com/images/products/13615/380x218/ravenswatch-pc-juego-steam-europe-us-canada-cover.jpg?v=1733330073",
+    "minPrice": 14.41,
+    "maxPrice": 14.41
+  },
+  "Geo-Political Simulator 5": {
+    "url": null,
+    "name": "Geo-Political Simulator 5",
+    "price": 31.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/17886/380x218/geo-political-simulator-5-pc-juego-steam-europe-us-canada-cover.jpg?v=1729687305",
+    "minPrice": 31.99,
+    "maxPrice": 31.99
+  },
+  "Final Fantasy VII Remake & Rebirth Digital Deluxe Twin Pack": {
+    "url": null,
+    "name": "Final Fantasy VII Remake & Rebirth Digital Deluxe Twin Pack",
+    "price": 69.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/18322/380x218/final-fantasy-vii-remake-rebirth-digital-deluxe-twin-pack-digital-deluxe-twin-pack-pc-juego-steam-cover.jpg?v=1737652109",
+    "minPrice": 69.99,
+    "maxPrice": 69.99
+  },
+  "The Stone of Madness": {
+    "url": null,
+    "name": "The Stone of Madness",
+    "price": 18.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/17813/380x218/the-stone-of-madness-pc-juego-steam-cover.jpg?v=1738061592",
+    "minPrice": 18.99,
+    "maxPrice": 18.99
+  },
+  "Metaphor: ReFantazio": {
+    "url": null,
+    "name": "Metaphor: ReFantazio",
+    "price": 38.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/14352/380x218/metaphor-refantazio-pc-juego-steam-europe-cover.jpg?v=1728921586",
+    "minPrice": 38.99,
+    "maxPrice": 38.99
+  },
+  "Windblown": {
+    "url": null,
+    "name": "Windblown",
+    "price": 15.49,
+    "imageUrl": "https://gaming-cdn.com/images/products/15540/380x218/windblown-pc-juego-steam-europe-us-canada-cover.jpg?v=1734078223",
+    "minPrice": 15.49,
+    "maxPrice": 15.49
+  },
+  "Farming Simulator 25 - Year 1 Bundle": {
+    "url": null,
+    "name": "Farming Simulator 25 - Year 1 Bundle",
+    "price": 47.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/17099/380x218/farming-simulator-25-year-1-bundle-year-1-bundle-pc-mac-juego-steam-cover.jpg?v=1731418295",
+    "minPrice": 47.99,
+    "maxPrice": 47.99
+  },
+  "Sengoku Dynasty": {
+    "url": null,
+    "name": "Sengoku Dynasty",
+    "price": 18.77,
+    "imageUrl": "https://gaming-cdn.com/images/products/10687/380x218/sengoku-dynasty-pc-juego-steam-cover.jpg?v=1696585060",
+    "minPrice": 18.77,
+    "maxPrice": 18.77
+  },
+  "Total War: Warhammer III - Omens of Destruction": {
+    "url": null,
+    "name": "Total War: Warhammer III - Omens of Destruction",
+    "price": 18.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/18224/380x218/total-war-warhammer-iii-omens-of-destruction-pc-juego-steam-europe-cover.jpg?v=1734077652",
+    "minPrice": 18.99,
+    "maxPrice": 18.99
+  },
+  "Crusader Kings III: Wandering Nobles": {
+    "url": null,
+    "name": "Crusader Kings III: Wandering Nobles",
+    "price": 4.74,
+    "imageUrl": "https://gaming-cdn.com/images/products/17946/380x218/crusader-kings-iii-wandering-nobles-pc-juego-steam-europe-us-canada-cover.jpg?v=1730910897",
+    "minPrice": 4.74,
+    "maxPrice": 4.74
+  },
+  "Planet Zoo: Zookeepers Animal Pack": {
+    "url": null,
+    "name": "Planet Zoo: Zookeepers Animal Pack",
+    "price": 7.49,
+    "imageUrl": "https://gaming-cdn.com/images/products/17819/380x218/planet-zoo-zookeepers-animal-pack-pc-juego-steam-europe-us-canada-cover.jpg?v=1734959153",
+    "minPrice": 7.49,
+    "maxPrice": 7.49
+  },
+  "Cult of the Lamb: Pilgrim Pack": {
+    "url": null,
+    "name": "Cult of the Lamb: Pilgrim Pack",
+    "price": 4.62,
+    "imageUrl": "https://gaming-cdn.com/images/products/17366/380x218/cult-of-the-lamb-pilgrim-pack-pc-mac-juego-steam-cover.jpg?v=1729697635",
+    "minPrice": 4.62,
+    "maxPrice": 4.62
+  },
+  "Silent Hill 2": {
+    "url": null,
+    "name": "Silent Hill 2",
+    "price": 37.5,
+    "imageUrl": "https://gaming-cdn.com/images/products/13083/380x218/silent-hill-2-pc-juego-steam-europe-cover.jpg?v=1733905873",
+    "minPrice": 37.5,
+    "maxPrice": 37.5
+  },
+  "NBA 2K25 All-Star Edition": {
+    "url": null,
+    "name": "NBA 2K25 All-Star Edition",
+    "price": 37.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/17237/380x218/nba-2k25-all-star-edition-all-star-edition-pc-juego-steam-europe-cover.jpg?v=1731919759",
+    "minPrice": 37.99,
+    "maxPrice": 37.99
+  },
+  "Ace Attorney Investigations Collection": {
+    "url": null,
+    "name": "Ace Attorney Investigations Collection",
+    "price": 22.33,
+    "imageUrl": "https://gaming-cdn.com/images/products/17083/380x218/ace-attorney-investigations-collection-collection-pc-juego-steam-europe-cover.jpg?v=1725541255",
+    "minPrice": 22.33,
+    "maxPrice": 22.33
+  },
+  "Planet Coaster 2": {
+    "url": null,
+    "name": "Planet Coaster 2",
+    "price": 34.64,
+    "imageUrl": "https://gaming-cdn.com/images/products/17213/380x218/planet-coaster-2-pc-juego-steam-europe-us-canada-cover.jpg?v=1731594936",
+    "minPrice": 34.64,
+    "maxPrice": 34.64
+  },
+  "EA Sports FC 25": {
+    "url": null,
+    "name": "EA Sports FC 25",
+    "price": null,
+    "imageUrl": "https://gaming-cdn.com/images/products/17831/380x218/ea-sports-fc-25-pc-juego-ea-app-cover.jpg?v=1732622697",
+    "minPrice": 0,
+    "maxPrice": 0
+  },
+  "SCP: Fragmented Minds": {
+    "url": null,
+    "name": "SCP: Fragmented Minds",
+    "price": 6.88,
+    "imageUrl": "https://gaming-cdn.com/images/products/18601/380x218/scp-fragmented-minds-pc-juego-steam-europe-us-canada-cover.jpg?v=1738059290",
+    "minPrice": 6.88,
+    "maxPrice": 6.88
+  },
+  "Legacy of Kain Soul Reaver 1&2 Remastered": {
+    "url": null,
+    "name": "Legacy of Kain Soul Reaver 1&2 Remastered",
+    "price": 16.68,
+    "imageUrl": "https://gaming-cdn.com/images/products/17618/380x218/legacy-of-kain-soul-reaver-1-2-remastered-pc-juego-steam-europe-cover.jpg?v=1733819518",
+    "minPrice": 16.68,
+    "maxPrice": 16.68
+  },
+  "Indiana Jones y el Gran Círculo": {
+    "url": null,
+    "name": "Indiana Jones y el Gran Círculo",
+    "price": 52.99,
+    "imageUrl": "https://gaming-cdn.com/images/products/8043/380x218/indiana-jones-y-el-gran-circulo-pc-juego-steam-cover.jpg?v=1733735608",
+    "minPrice": 52.99,
+    "maxPrice": 52.99
+  },
+  "Necroking": {
+    "url": null,
+    "name": "Necroking",
+    "price": 1.32,
+    "imageUrl": "https://gaming-cdn.com/images/products/17531/380x218/necroking-pc-juego-steam-cover.jpg?v=1725539272",
+    "minPrice": 1.32,
+    "maxPrice": 1.32
+  }
+}
