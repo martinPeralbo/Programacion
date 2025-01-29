@@ -52,6 +52,10 @@
         .price.actual.higher {
             color: red; /* Precio actual mayor al máximo en rojo */
         }
+        .last-seen {
+            font-size: 0.8em;
+            color: #ccc;
+        }
     </style>
 </head>
 <body>
@@ -62,11 +66,12 @@
                 <img class="cover" src="<%= result.imageUrl %>" alt="<%= result.name %> cover">
                 <div class="name"><%= result.name %></div>
                 <a class="link" href="<%= result.url %>" target="_blank">Ver juego</a>
-                <div class="price actual <%= parseFloat(result.price) < parseFloat(result.minPrice) ? 'lower' : parseFloat(result.price) > parseFloat(result.maxPrice) ? 'higher' : '' %>">
+                <div class="price actual <%= result.priceClass %>">
                     Actual: <%= result.price %>€
                 </div>
                 <div class="price">Mínimo: <%= result.minPrice %>€</div>
                 <div class="price">Máximo: <%= result.maxPrice %>€</div>
+                <div class="last-seen">Última actualización: <%= new Date(result.lastSeen).toLocaleString() %></div>
             </div>
         <% }) %>
     </div>
