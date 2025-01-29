@@ -8,7 +8,6 @@ app.set('view engine', 'ejs');
 
 app.get('/', async (req, res) => {
     const browser = await chromium.launch();
-    console.log('patata' + browser.browserType())
     const page = await browser.newPage();
     
 
