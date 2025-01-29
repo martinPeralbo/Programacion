@@ -1,4 +1,3 @@
-// filepath: /c:/Users/peral/Desktop/Programacion/NODE_SCRAPPING/server.js
 const express = require('express');
 const { chromium } = require('playwright');
 const app = express();
@@ -9,31 +8,30 @@ app.set('view engine', 'ejs');
 app.get('/', async (req, res) => {
     const browser = await chromium.launch();
     const page = await browser.newPage();
+
+    // Ir a la página de tendencias para obtener los enlaces a los juegos
+    await page.goto('https://www.instant-gaming.com/es/tendencias/');
     
+    // Obtener los enlaces a los juegos, el nombre, el precio y la imagen desde la página de tendencias
+    const gameLinks = await page.$$eval('div.item.force-badge', items => {
+        return items.map(item => {
+            const linkElement = item.querySelector('a.cover.video.is-playable.played');
+            const nameElement = item.querySelector('.information .name .title');
+            const priceElement = item.querySelector('.information .price');
+            const imageElement = item.querySelector('img.picture');
 
-    const urls = [
-        { url: 'https://www.instant-gaming.com/es/16944-comprar-playstation-store-astro-bot-playstation-5-juego-playstation-store/', name: 'ASTRO BOT' },
-        { url: 'https://www.instant-gaming.com/es/7930-comprar-monster-hunter-wilds-pc-juego-steam-europe/', name: 'MONSTER HUNTER' },
-        { url: 'https://www.instant-gaming.com/es/13083-comprar-steam-silent-hill-2-pc-juego-steam-europe/', name: 'Silent hill 2' }
-    ];
-
-    const results = [];
-
-    for (const { url, name } of urls) {
-        await page.goto(url);
-        let content = await page.textContent('[class="amount"]');
-        let precio = null;
-
-        if (content.includes('€')) {
-            precio = await page.textContent('[class="total"]');
-        }
-
-        results.push({ name, precio: precio || content });
-    }
+            return {
+                url: linkElement ? linkElement.href : null,  // URL del juego
+                name: nameElement ? nameElement.textContent.trim() : null, // Nombre del juego
+                price: priceElement ? priceElement.textContent.trim() : null, // Precio del juego
+                imageUrl: imageElement ? imageElement.getAttribute('src') : null // URL de la imagen
+            };
+        });
+    });
 
     await browser.close();
 
-    res.render('index', { results });
+    res.render('index', { results: gameLinks });
 });
 
 app.listen(port, () => {
