@@ -7,7 +7,7 @@ const port = 3000;
 app.set('view engine', 'ejs');
 
 app.get('/', async (req, res) => {
-    const browser = await chromium.launch({ executablePath: 'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe' });
+    const browser = await chromium.launch();
     const page = await browser.newPage();
 
     const urls = [
