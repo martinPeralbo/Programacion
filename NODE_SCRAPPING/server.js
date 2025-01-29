@@ -8,7 +8,9 @@ app.set('view engine', 'ejs');
 
 app.get('/', async (req, res) => {
     const browser = await chromium.launch();
+    console.log('patata' + browser.browserType())
     const page = await browser.newPage();
+    
 
     const urls = [
         { url: 'https://www.instant-gaming.com/es/16944-comprar-playstation-store-astro-bot-playstation-5-juego-playstation-store/', name: 'ASTRO BOT' },
