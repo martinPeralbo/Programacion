@@ -1,16 +1,17 @@
+// filepath: /c:/Users/peral/Desktop/Programacion/NODE_SCRAPPING/server.js
 const express = require('express');
-const { chromium } = require('playwright');
+const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 app.set('view engine', 'ejs');
 
 const dataFilePath = path.join(__dirname, 'gameData.json');
 
 app.get('/', async (req, res) => {
-    const browser = await chromium.launch();
+    const browser = await puppeteer.launch();
     const page = await browser.newPage();
 
     // Capturar mensajes de consola del navegador
@@ -20,10 +21,9 @@ app.get('/', async (req, res) => {
     await page.goto('https://www.instant-gaming.com/es/tendencias/');
     
     // Obtener los enlaces a los juegos, el nombre, el precio y la imagen desde la página de tendencias
-    const gameLinks = await page.$$eval('div.item.force-badge', items => {
-        return items.map(item => {
-            const linkElement = item.querySelector('.cover');
-            console.log('URL:' + linkElement);
+    const gameLinks = await page.evaluate(() => {
+        return Array.from(document.querySelectorAll('div.item.force-badge')).map(item => {
+            const linkElement = item.querySelector('a.cover.video.is-playable.played');
             const nameElement = item.querySelector('.information .name .title');
             const priceElement = item.querySelector('.information .price');
             const imageElement = item.querySelector('img.picture');
