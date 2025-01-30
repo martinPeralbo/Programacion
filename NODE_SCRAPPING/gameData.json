@@ -7,7 +7,7 @@
     "minPrice": 55.79,
     "maxPrice": 55.79,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "Path Of Exile 2": {
     "url": "https://www.instant-gaming.com/es/5813-comprar-path-of-exile-2-pc-juego-steam/",
@@ -17,7 +17,7 @@
     "minPrice": 16.99,
     "maxPrice": 16.99,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "Assetto Corsa Evo": {
     "url": "https://www.instant-gaming.com/es/13807-comprar-assetto-corsa-evo-pc-juego-steam-europe-us-canada/",
@@ -27,7 +27,7 @@
     "minPrice": 22.89,
     "maxPrice": 22.89,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "Monster Hunter Wilds": {
     "url": "https://www.instant-gaming.com/es/7930-comprar-monster-hunter-wilds-pc-juego-steam-europe/",
@@ -37,27 +37,17 @@
     "minPrice": 47.99,
     "maxPrice": 47.99,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
-  "Sniper Elite: Resistance Deluxe Edition + Acceso anticipado": {
-    "url": "https://www.instant-gaming.com/es/18527-comprar-sniper-elite-resistance-deluxe-edition-acceso-anticipado-deluxe-edition-pc-juego-steam-europe-us-canada/",
-    "name": "Sniper Elite: Resistance Deluxe Edition + Acceso anticipado",
-    "price": "52.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/18527/380x218/sniper-elite-resistance-deluxe-edition-acceso-anticipado-deluxe-edition-pc-juego-steam-europe-us-canada-cover.jpg?v=1738169829",
-    "minPrice": 52.99,
-    "maxPrice": 52.99,
+  "Sid Meier’s Civilization VII Founders Edition + Acceso anticipado": {
+    "url": "https://www.instant-gaming.com/es/17443-comprar-sid-meier-s-civilization-vii-founders-edition-acceso-anticipado-founders-edition-pc-juego-steam-europe/",
+    "name": "Sid Meier’s Civilization VII Founders Edition + Acceso anticipado",
+    "price": "93.19",
+    "imageUrl": "https://gaming-cdn.com/images/products/17443/380x218/sid-meier-s-civilization-vii-founders-edition-acceso-anticipado-founders-edition-pc-juego-steam-europe-cover.jpg?v=1738236800",
+    "minPrice": 93.19,
+    "maxPrice": 93.19,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Murky Divers": {
-    "url": "https://www.instant-gaming.com/es/17137-comprar-murky-divers-pc-juego-steam/",
-    "name": "Murky Divers",
-    "price": "3.72",
-    "imageUrl": "https://gaming-cdn.com/images/products/17137/380x218/murky-divers-pc-juego-steam-cover.jpg?v=1724074717",
-    "minPrice": 3.72,
-    "maxPrice": 5.72,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "Sniper Elite: Resistance": {
     "url": "https://www.instant-gaming.com/es/17428-comprar-sniper-elite-resistance-pc-juego-steam-europe-us-canada/",
@@ -67,17 +57,7 @@
     "minPrice": 33.89,
     "maxPrice": 33.89,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Sid Meier’s Civilization VII Founders Edition + Acceso anticipado": {
-    "url": "https://www.instant-gaming.com/es/17443-comprar-sid-meier-s-civilization-vii-founders-edition-acceso-anticipado-founders-edition-pc-juego-steam-europe/",
-    "name": "Sid Meier’s Civilization VII Founders Edition + Acceso anticipado",
-    "price": "93.19",
-    "imageUrl": "https://gaming-cdn.com/images/products/17443/380x218/sid-meier-s-civilization-vii-founders-edition-acceso-anticipado-founders-edition-pc-juego-steam-europe-cover.jpg?v=1738061240",
-    "minPrice": 93.19,
-    "maxPrice": 93.19,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "Monster Hunter Wilds Premium Deluxe Edition": {
     "url": "https://www.instant-gaming.com/es/17601-comprar-monster-hunter-wilds-premium-deluxe-edition-premium-deluxe-edition-pc-juego-steam-europe/",
@@ -87,67 +67,37 @@
     "minPrice": 74.99,
     "maxPrice": 74.99,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
-  "Final Fantasy VII Rebirth": {
-    "url": "https://www.instant-gaming.com/es/10365-comprar-final-fantasy-vii-rebirth-pc-juego-steam/",
-    "name": "Final Fantasy VII Rebirth",
-    "price": "39.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/10365/380x218/final-fantasy-vii-rebirth-pc-juego-steam-cover.jpg?v=1737652046",
-    "minPrice": 39.99,
-    "maxPrice": 39.99,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+  "EA Sports FC 25": {
+    "url": "https://www.instant-gaming.com/es/17831-comprar-ea-sports-fc-25-pc-juego-ea-app/",
+    "name": "EA Sports FC 25",
+    "price": null,
+    "imageUrl": "https://gaming-cdn.com/images/products/17147/380x218/ea-sports-fc-25-pc-juego-steam-cover.jpg?v=1727423429",
+    "minPrice": null,
+    "maxPrice": null,
+    "priceClass": "",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
-  "Farming Simulator 25": {
-    "url": "https://www.instant-gaming.com/es/16993-comprar-farming-simulator-25-pc-mac-juego-steam/",
-    "name": "Farming Simulator 25",
-    "price": "29.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/16993/380x218/farming-simulator-25-pc-mac-juego-steam-cover.jpg?v=1731485914",
-    "minPrice": 29.99,
-    "maxPrice": 29.99,
+  "Ninja Gaiden 2 Black": {
+    "url": null,
+    "name": "Ninja Gaiden 2 Black",
+    "price": "33.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/18598/380x218/ninja-gaiden-2-black-pc-juego-steam-europe-cover.jpg?v=1738162769",
+    "minPrice": 33.99,
+    "maxPrice": 33.99,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
-  "Aloft": {
-    "url": "https://www.instant-gaming.com/es/17120-comprar-aloft-pc-juego-steam/",
-    "name": "Aloft",
-    "price": "19.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/17120/380x218/aloft-pc-juego-steam-cover.jpg?v=1737291244",
-    "minPrice": 19.99,
-    "maxPrice": 19.99,
+  "Murky Divers": {
+    "url": "https://www.instant-gaming.com/es/17137-comprar-murky-divers-pc-juego-steam/",
+    "name": "Murky Divers",
+    "price": "3.72",
+    "imageUrl": "https://gaming-cdn.com/images/products/17137/380x218/murky-divers-pc-juego-steam-cover.jpg?v=1724074717",
+    "minPrice": 3.72,
+    "maxPrice": 5.72,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Los Sims 4 Vida y Más Allá": {
-    "url": "https://www.instant-gaming.com/es/16902-comprar-los-sims-4-vida-y-mas-alla-pc-juego-ea-app/",
-    "name": "Los Sims 4 Vida y Más Allá",
-    "price": "23.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/16902/380x218/los-sims-4-vida-y-mas-alla-pc-juego-ea-app-cover.jpg?v=1730382714",
-    "minPrice": 23.99,
-    "maxPrice": 23.99,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Tails of Iron 2: Whiskers of Winter": {
-    "url": "https://www.instant-gaming.com/es/16475-comprar-tails-of-iron-2-whiskers-of-winter-pc-mac-juego-steam-europe-us-canada/",
-    "name": "Tails of Iron 2: Whiskers of Winter",
-    "price": "17.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/16475/380x218/tails-of-iron-2-whiskers-of-winter-pc-mac-juego-steam-europe-us-canada-cover.jpg?v=1738141369",
-    "minPrice": 17.99,
-    "maxPrice": 17.99,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "MiSide": {
-    "url": "https://www.instant-gaming.com/es/18312-comprar-miside-pc-juego-steam/",
-    "name": "MiSide",
-    "price": "10.89",
-    "imageUrl": "https://gaming-cdn.com/images/products/18312/380x218/miside-pc-juego-steam-cover.jpg?v=1734423797",
-    "minPrice": 10.89,
-    "maxPrice": 10.89,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "Kingdom Come: Deliverance II": {
     "url": "https://www.instant-gaming.com/es/8988-comprar-kingdom-come-deliverance-ii-pc-juego-steam-europe-us-canada/",
@@ -157,17 +107,67 @@
     "minPrice": 42.79,
     "maxPrice": 42.79,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
-  "NBA 2K25": {
-    "url": "https://www.instant-gaming.com/es/17194-comprar-nba-2k25-pc-juego-steam-europe/",
-    "name": "NBA 2K25",
-    "price": "21.98",
-    "imageUrl": "https://gaming-cdn.com/images/products/17194/380x218/nba-2k25-pc-juego-steam-europe-cover.jpg?v=1731919092",
-    "minPrice": 21.98,
-    "maxPrice": 21.98,
+  "Los Sims 4 Vida y Más Allá": {
+    "url": "https://www.instant-gaming.com/es/16902-comprar-los-sims-4-vida-y-mas-alla-pc-juego-ea-app/",
+    "name": "Los Sims 4 Vida y Más Allá",
+    "price": "23.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/16902/380x218/los-sims-4-vida-y-mas-alla-pc-juego-ea-app-cover.jpg?v=1730382714",
+    "minPrice": 23.99,
+    "maxPrice": 23.99,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Final Fantasy VII Rebirth": {
+    "url": "https://www.instant-gaming.com/es/10365-comprar-final-fantasy-vii-rebirth-pc-juego-steam/",
+    "name": "Final Fantasy VII Rebirth",
+    "price": "39.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/10365/380x218/final-fantasy-vii-rebirth-pc-juego-steam-cover.jpg?v=1737652046",
+    "minPrice": 39.99,
+    "maxPrice": 39.99,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Aloft": {
+    "url": "https://www.instant-gaming.com/es/17120-comprar-aloft-pc-juego-steam/",
+    "name": "Aloft",
+    "price": "19.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/17120/380x218/aloft-pc-juego-steam-cover.jpg?v=1737291244",
+    "minPrice": 19.99,
+    "maxPrice": 19.99,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Farming Simulator 25": {
+    "url": "https://www.instant-gaming.com/es/16993-comprar-farming-simulator-25-pc-mac-juego-steam/",
+    "name": "Farming Simulator 25",
+    "price": "29.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/16993/380x218/farming-simulator-25-pc-mac-juego-steam-cover.jpg?v=1731485914",
+    "minPrice": 29.99,
+    "maxPrice": 29.99,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Sniper Elite: Resistance Deluxe Edition + Acceso anticipado": {
+    "url": "https://www.instant-gaming.com/es/18527-comprar-sniper-elite-resistance-deluxe-edition-acceso-anticipado-deluxe-edition-pc-juego-steam-europe-us-canada/",
+    "name": "Sniper Elite: Resistance Deluxe Edition + Acceso anticipado",
+    "price": "52.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/18527/380x218/sniper-elite-resistance-deluxe-edition-acceso-anticipado-deluxe-edition-pc-juego-steam-europe-us-canada-cover.jpg?v=1738169829",
+    "minPrice": 52.99,
+    "maxPrice": 52.99,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "MiSide": {
+    "url": "https://www.instant-gaming.com/es/18312-comprar-miside-pc-juego-steam/",
+    "name": "MiSide",
+    "price": "10.89",
+    "imageUrl": "https://gaming-cdn.com/images/products/18312/380x218/miside-pc-juego-steam-cover.jpg?v=1734423797",
+    "minPrice": 10.89,
+    "maxPrice": 10.89,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "Dynasty Warriors: Origins": {
     "url": "https://www.instant-gaming.com/es/16950-comprar-dynasty-warriors-origins-pc-juego-steam-europe/",
@@ -177,17 +177,7 @@
     "minPrice": 52.99,
     "maxPrice": 52.99,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Final Fantasy VII Remake & Rebirth Twin Pack": {
-    "url": "https://www.instant-gaming.com/es/18321-comprar-final-fantasy-vii-remake-rebirth-twin-pack-twin-pack-pc-juego-steam/",
-    "name": "Final Fantasy VII Remake & Rebirth Twin Pack",
-    "price": "55.89",
-    "imageUrl": "https://gaming-cdn.com/images/products/18321/380x218/final-fantasy-vii-remake-rebirth-twin-pack-twin-pack-pc-juego-steam-cover.jpg?v=1737652091",
-    "minPrice": 55.89,
-    "maxPrice": 55.89,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "Sid Meier’s Civilization VII": {
     "url": "https://www.instant-gaming.com/es/9371-comprar-sid-meier-s-civilization-vii-pc-juego-steam-europe/",
@@ -197,57 +187,7 @@
     "minPrice": 50.49,
     "maxPrice": 50.49,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Tails of Iron 2: Whiskers of Winter Deluxe Edition": {
-    "url": "https://www.instant-gaming.com/es/18478-comprar-tails-of-iron-2-whiskers-of-winter-deluxe-edition-deluxe-edition-pc-mac-juego-steam-europe-us-canada/",
-    "name": "Tails of Iron 2: Whiskers of Winter Deluxe Edition",
-    "price": null,
-    "imageUrl": "https://gaming-cdn.com/images/products/18478/380x218/tails-of-iron-2-whiskers-of-winter-deluxe-edition-deluxe-edition-pc-mac-juego-steam-europe-us-canada-cover.jpg?v=1738084158",
-    "minPrice": null,
-    "maxPrice": null,
-    "priceClass": "",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Warhammer 40,000: Space Marine 2": {
-    "url": "https://www.instant-gaming.com/es/10140-comprar-warhammer-40-000-space-marine-2-pc-juego-steam/",
-    "name": "Warhammer 40,000: Space Marine 2",
-    "price": "37.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/10140/380x218/warhammer-40-000-space-marine-2-pc-juego-steam-cover.jpg?v=1725274116",
-    "minPrice": 37.99,
-    "maxPrice": 37.99,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "The Last Of Us Part II Remastered": {
-    "url": "https://www.instant-gaming.com/es/6215-comprar-the-last-of-us-part-ii-remastered-pc-juego-steam-europe/",
-    "name": "The Last Of Us Part II Remastered",
-    "price": "36.49",
-    "imageUrl": "https://gaming-cdn.com/images/products/6215/380x218/the-last-of-us-part-ii-remastered-pc-juego-steam-europe-cover.jpg?v=1737707852",
-    "minPrice": 36.49,
-    "maxPrice": 36.49,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Ready or Not LSPD Bundle": {
-    "url": "https://www.instant-gaming.com/es/18269-comprar-ready-or-not-lspd-bundle-lspd-bundle-pc-juego-steam/",
-    "name": "Ready or Not LSPD Bundle",
-    "price": "37.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/18269/380x218/ready-or-not-lspd-bundle-lspd-bundle-pc-juego-steam-cover.jpg?v=1737138348",
-    "minPrice": 37.99,
-    "maxPrice": 37.99,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Black Myth: Wukong": {
-    "url": "https://www.instant-gaming.com/es/7678-comprar-black-myth-wukong-pc-juego-steam-europe-us-canada/",
-    "name": "Black Myth: Wukong",
-    "price": "47.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/7678/380x218/black-myth-wukong-pc-juego-steam-europe-us-canada-cover.jpg?v=1728309382",
-    "minPrice": 47.99,
-    "maxPrice": 47.99,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "Sid Meier’s Civilization VII Deluxe Edition + Acceso anticipado": {
     "url": "https://www.instant-gaming.com/es/17444-comprar-sid-meier-s-civilization-vii-deluxe-edition-acceso-anticipado-deluxe-edition-pc-juego-steam-europe/",
@@ -257,7 +197,57 @@
     "minPrice": 73.49,
     "maxPrice": 73.49,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Warhammer 40,000: Space Marine 2": {
+    "url": "https://www.instant-gaming.com/es/10140-comprar-warhammer-40-000-space-marine-2-pc-juego-steam/",
+    "name": "Warhammer 40,000: Space Marine 2",
+    "price": "37.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/10140/380x218/warhammer-40-000-space-marine-2-pc-juego-steam-cover.jpg?v=1725274116",
+    "minPrice": 37.99,
+    "maxPrice": 37.99,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Final Fantasy VII Remake & Rebirth Twin Pack": {
+    "url": "https://www.instant-gaming.com/es/18321-comprar-final-fantasy-vii-remake-rebirth-twin-pack-twin-pack-pc-juego-steam/",
+    "name": "Final Fantasy VII Remake & Rebirth Twin Pack",
+    "price": "55.89",
+    "imageUrl": "https://gaming-cdn.com/images/products/18321/380x218/final-fantasy-vii-remake-rebirth-twin-pack-twin-pack-pc-juego-steam-cover.jpg?v=1737652091",
+    "minPrice": 55.89,
+    "maxPrice": 55.89,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Tails of Iron 2: Whiskers of Winter": {
+    "url": "https://www.instant-gaming.com/es/16475-comprar-tails-of-iron-2-whiskers-of-winter-pc-mac-juego-steam-europe-us-canada/",
+    "name": "Tails of Iron 2: Whiskers of Winter",
+    "price": "17.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/16475/380x218/tails-of-iron-2-whiskers-of-winter-pc-mac-juego-steam-europe-us-canada-cover.jpg?v=1738141369",
+    "minPrice": 17.99,
+    "maxPrice": 17.99,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "The Last Of Us Part II Remastered": {
+    "url": "https://www.instant-gaming.com/es/6215-comprar-the-last-of-us-part-ii-remastered-pc-juego-steam-europe/",
+    "name": "The Last Of Us Part II Remastered",
+    "price": "36.49",
+    "imageUrl": "https://gaming-cdn.com/images/products/6215/380x218/the-last-of-us-part-ii-remastered-pc-juego-steam-europe-cover.jpg?v=1737707852",
+    "minPrice": 36.49,
+    "maxPrice": 36.49,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Black Myth: Wukong": {
+    "url": "https://www.instant-gaming.com/es/7678-comprar-black-myth-wukong-pc-juego-steam-europe-us-canada/",
+    "name": "Black Myth: Wukong",
+    "price": "47.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/7678/380x218/black-myth-wukong-pc-juego-steam-europe-us-canada-cover.jpg?v=1728309382",
+    "minPrice": 47.99,
+    "maxPrice": 47.99,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "Monster Hunter Wilds Deluxe Edition": {
     "url": "https://www.instant-gaming.com/es/17598-comprar-monster-hunter-wilds-deluxe-edition-deluxe-edition-pc-juego-steam-europe/",
@@ -267,7 +257,17 @@
     "minPrice": 61.49,
     "maxPrice": 61.49,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "NBA 2K25": {
+    "url": "https://www.instant-gaming.com/es/17194-comprar-nba-2k25-pc-juego-steam-europe/",
+    "name": "NBA 2K25",
+    "price": "21.98",
+    "imageUrl": "https://gaming-cdn.com/images/products/17194/380x218/nba-2k25-pc-juego-steam-europe-cover.jpg?v=1731919092",
+    "minPrice": 21.98,
+    "maxPrice": 21.98,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "Ready or Not: Dark Waters": {
     "url": "https://www.instant-gaming.com/es/18243-comprar-ready-or-not-dark-waters-pc-juego-steam-europe-us-canada/",
@@ -277,17 +277,7 @@
     "minPrice": 8.78,
     "maxPrice": 8.78,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Assassin’s Creed Shadows Deluxe Edition": {
-    "url": "https://www.instant-gaming.com/es/16831-comprar-assassin-s-creed-shadows-deluxe-edition-deluxe-edition-pc-juego-ubisoft-connect/",
-    "name": "Assassin’s Creed Shadows Deluxe Edition",
-    "price": "65.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/16831/380x218/assassin-s-creed-shadows-deluxe-edition-deluxe-edition-pc-juego-ubisoft-connect-cover.jpg?v=1737668450",
-    "minPrice": 65.99,
-    "maxPrice": 65.99,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "Star Wars Outlaws": {
     "url": "https://www.instant-gaming.com/es/14344-comprar-star-wars-outlaws-pc-juego-ubisoft-connect/",
@@ -297,27 +287,27 @@
     "minPrice": 26.99,
     "maxPrice": 26.99,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
-  "The Lord of the Rings: Return to Moria": {
-    "url": "https://www.instant-gaming.com/es/14332-comprar-the-lord-of-the-rings-return-to-moria-pc-juego-steam/",
-    "name": "The Lord of the Rings: Return to Moria",
-    "price": "15.59",
-    "imageUrl": "https://gaming-cdn.com/images/products/14332/380x218/the-lord-of-the-rings-return-to-moria-pc-juego-steam-cover.jpg?v=1726816358",
-    "minPrice": 15.59,
-    "maxPrice": 15.59,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+  "Ready or Not LSPD Bundle": {
+    "url": "https://www.instant-gaming.com/es/18269-comprar-ready-or-not-lspd-bundle-lspd-bundle-pc-juego-steam/",
+    "name": "Ready or Not LSPD Bundle",
+    "price": null,
+    "imageUrl": "https://gaming-cdn.com/images/products/18269/380x218/ready-or-not-lspd-bundle-lspd-bundle-pc-juego-steam-cover.jpg?v=1737138348",
+    "minPrice": null,
+    "maxPrice": null,
+    "priceClass": "",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
-  "Microsoft Flight Simulator 2024 (PC / Xbox Series X|S)": {
-    "url": "https://www.instant-gaming.com/es/17684-comprar-microsoft-flight-simulator-2024-pc-xbox-series-x-s-pc-xbox-series-x-s-juego-microsoft-store/",
-    "name": "Microsoft Flight Simulator 2024 (PC / Xbox Series X|S)",
-    "price": "48.49",
-    "imageUrl": "https://gaming-cdn.com/images/products/17684/380x218/microsoft-flight-simulator-2024-pc-xbox-series-x-s-pc-xbox-series-x-s-juego-microsoft-store-cover.jpg?v=1737544631",
-    "minPrice": 48.49,
-    "maxPrice": 48.49,
+  "Assassin’s Creed Shadows Deluxe Edition": {
+    "url": "https://www.instant-gaming.com/es/16831-comprar-assassin-s-creed-shadows-deluxe-edition-deluxe-edition-pc-juego-ubisoft-connect/",
+    "name": "Assassin’s Creed Shadows Deluxe Edition",
+    "price": "65.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/16831/380x218/assassin-s-creed-shadows-deluxe-edition-deluxe-edition-pc-juego-ubisoft-connect-cover.jpg?v=1737668450",
+    "minPrice": 65.99,
+    "maxPrice": 65.99,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "S.T.A.L.K.E.R. 2: Heart of Chornobyl": {
     "url": "https://www.instant-gaming.com/es/5376-comprar-s-t-a-l-k-e-r-2-heart-of-chornobyl-pc-juego-steam-europe/",
@@ -327,137 +317,17 @@
     "minPrice": 36.67,
     "maxPrice": 36.67,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
-  "The Stone of Madness": {
-    "url": "https://www.instant-gaming.com/es/17813-comprar-the-stone-of-madness-pc-juego-steam/",
-    "name": "The Stone of Madness",
-    "price": "18.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/17813/380x218/the-stone-of-madness-pc-juego-steam-cover.jpg?v=1738167415",
-    "minPrice": 18.99,
-    "maxPrice": 18.99,
+  "The Lord of the Rings: Return to Moria": {
+    "url": "https://www.instant-gaming.com/es/14332-comprar-the-lord-of-the-rings-return-to-moria-pc-juego-steam/",
+    "name": "The Lord of the Rings: Return to Moria",
+    "price": "15.59",
+    "imageUrl": "https://gaming-cdn.com/images/products/14332/380x218/the-lord-of-the-rings-return-to-moria-pc-juego-steam-cover.jpg?v=1726816358",
+    "minPrice": 15.59,
+    "maxPrice": 15.59,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Crusader Kings III: Roads to Power": {
-    "url": "https://www.instant-gaming.com/es/17579-comprar-crusader-kings-iii-roads-to-power-pc-mac-juego-steam-europe-us-canada/",
-    "name": "Crusader Kings III: Roads to Power",
-    "price": "22.49",
-    "imageUrl": "https://gaming-cdn.com/images/products/17579/380x218/crusader-kings-iii-roads-to-power-pc-mac-juego-steam-europe-us-canada-cover.jpg?v=1727434827",
-    "minPrice": 22.49,
-    "maxPrice": 22.49,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Final Fantasy VII Rebirth Digital Deluxe Edition": {
-    "url": "https://www.instant-gaming.com/es/18308-comprar-final-fantasy-vii-rebirth-digital-deluxe-edition-digital-deluxe-edition-pc-juego-steam/",
-    "name": "Final Fantasy VII Rebirth Digital Deluxe Edition",
-    "price": "49.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/18308/380x218/final-fantasy-vii-rebirth-digital-deluxe-edition-digital-deluxe-edition-pc-juego-steam-cover.jpg?v=1737652072",
-    "minPrice": 49.99,
-    "maxPrice": 49.99,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Assassin's Creed Shadows": {
-    "url": "https://www.instant-gaming.com/es/12831-comprar-assassin-s-creed-shadows-pc-juego-ubisoft-connect/",
-    "name": "Assassin's Creed Shadows",
-    "price": "49.89",
-    "imageUrl": "https://gaming-cdn.com/images/products/12831/380x218/assassin-s-creed-shadows-pc-juego-ubisoft-connect-cover.jpg?v=1737668444",
-    "minPrice": 49.89,
-    "maxPrice": 49.89,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "God of War: Ragnarök - Digital Deluxe Edition": {
-    "url": "https://www.instant-gaming.com/es/16970-comprar-god-of-war-ragnarok-digital-deluxe-edition-digital-deluxe-edition-pc-juego-steam-europe/",
-    "name": "God of War: Ragnarök - Digital Deluxe Edition",
-    "price": "51.59",
-    "imageUrl": "https://gaming-cdn.com/images/products/16970/380x218/god-of-war-ragnarok-digital-deluxe-edition-digital-deluxe-edition-pc-juego-steam-europe-cover.jpg?v=1729767551",
-    "minPrice": 51.59,
-    "maxPrice": 51.59,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Core Keeper": {
-    "url": "https://www.instant-gaming.com/es/10564-comprar-core-keeper-pc-juego-steam-europe/",
-    "name": "Core Keeper",
-    "price": "11.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/10564/380x218/core-keeper-pc-juego-steam-europe-cover.jpg?v=1734088268",
-    "minPrice": 11.99,
-    "maxPrice": 11.99,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Ender Magnolia: Bloom in the Mist": {
-    "url": "https://www.instant-gaming.com/es/16573-comprar-ender-magnolia-bloom-in-the-mist-pc-juego-steam/",
-    "name": "Ender Magnolia: Bloom in the Mist",
-    "price": "19.89",
-    "imageUrl": "https://gaming-cdn.com/images/products/16573/380x218/ender-magnolia-bloom-in-the-mist-pc-juego-steam-cover.jpg?v=1737719387",
-    "minPrice": 19.89,
-    "maxPrice": 19.89,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Ravenswatch": {
-    "url": "https://www.instant-gaming.com/es/13615-comprar-ravenswatch-pc-juego-steam-europe-us-canada/",
-    "name": "Ravenswatch",
-    "price": "14.41",
-    "imageUrl": "https://gaming-cdn.com/images/products/13615/380x218/ravenswatch-pc-juego-steam-europe-us-canada-cover.jpg?v=1733330073",
-    "minPrice": 14.41,
-    "maxPrice": 14.41,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Geo-Political Simulator 5": {
-    "url": "https://www.instant-gaming.com/es/17886-comprar-geo-political-simulator-5-pc-juego-steam-europe-us-canada/",
-    "name": "Geo-Political Simulator 5",
-    "price": "31.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/17886/380x218/geo-political-simulator-5-pc-juego-steam-europe-us-canada-cover.jpg?v=1729687305",
-    "minPrice": 31.99,
-    "maxPrice": 31.99,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Final Fantasy VII Remake & Rebirth Digital Deluxe Twin Pack": {
-    "url": "https://www.instant-gaming.com/es/18322-comprar-final-fantasy-vii-remake-rebirth-digital-deluxe-twin-pack-digital-deluxe-twin-pack-pc-juego-steam/",
-    "name": "Final Fantasy VII Remake & Rebirth Digital Deluxe Twin Pack",
-    "price": "69.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/18322/380x218/final-fantasy-vii-remake-rebirth-digital-deluxe-twin-pack-digital-deluxe-twin-pack-pc-juego-steam-cover.jpg?v=1737652109",
-    "minPrice": 69.99,
-    "maxPrice": 69.99,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Metaphor: ReFantazio": {
-    "url": "https://www.instant-gaming.com/es/14352-comprar-metaphor-refantazio-pc-juego-steam-europe/",
-    "name": "Metaphor: ReFantazio",
-    "price": "38.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/14352/380x218/metaphor-refantazio-pc-juego-steam-europe-cover.jpg?v=1728921586",
-    "minPrice": 38.99,
-    "maxPrice": 38.99,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Legacy of Kain Soul Reaver 1&2 Remastered": {
-    "url": "https://www.instant-gaming.com/es/17618-comprar-legacy-of-kain-soul-reaver-1-2-remastered-pc-juego-steam-europe/",
-    "name": "Legacy of Kain Soul Reaver 1&2 Remastered",
-    "price": "16.35",
-    "imageUrl": "https://gaming-cdn.com/images/products/17618/380x218/legacy-of-kain-soul-reaver-1-2-remastered-pc-juego-steam-europe-cover.jpg?v=1733819518",
-    "minPrice": 16.35,
-    "maxPrice": 16.68,
-    "priceClass": "lower",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Windblown": {
-    "url": "https://www.instant-gaming.com/es/15540-comprar-windblown-pc-juego-steam-europe-us-canada/",
-    "name": "Windblown",
-    "price": "15.49",
-    "imageUrl": "https://gaming-cdn.com/images/products/15540/380x218/windblown-pc-juego-steam-europe-us-canada-cover.jpg?v=1734078223",
-    "minPrice": 15.49,
-    "maxPrice": 15.49,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "Farming Simulator 25 - Year 1 Bundle": {
     "url": "https://www.instant-gaming.com/es/17099-comprar-farming-simulator-25-year-1-bundle-year-1-bundle-pc-mac-juego-steam/",
@@ -467,117 +337,67 @@
     "minPrice": 47.99,
     "maxPrice": 47.99,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
-  "Sengoku Dynasty": {
-    "url": "https://www.instant-gaming.com/es/10687-comprar-sengoku-dynasty-pc-juego-steam/",
-    "name": "Sengoku Dynasty",
-    "price": "18.77",
-    "imageUrl": "https://gaming-cdn.com/images/products/10687/380x218/sengoku-dynasty-pc-juego-steam-cover.jpg?v=1696585060",
-    "minPrice": 18.77,
-    "maxPrice": 18.77,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Total War: Warhammer III - Omens of Destruction": {
-    "url": "https://www.instant-gaming.com/es/18224-comprar-total-war-warhammer-iii-omens-of-destruction-pc-juego-steam-europe/",
-    "name": "Total War: Warhammer III - Omens of Destruction",
+  "The Stone of Madness": {
+    "url": "https://www.instant-gaming.com/es/17813-comprar-the-stone-of-madness-pc-juego-steam/",
+    "name": "The Stone of Madness",
     "price": "18.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/18224/380x218/total-war-warhammer-iii-omens-of-destruction-pc-juego-steam-europe-cover.jpg?v=1734077652",
+    "imageUrl": "https://gaming-cdn.com/images/products/17813/380x218/the-stone-of-madness-pc-juego-steam-cover.jpg?v=1738167415",
     "minPrice": 18.99,
     "maxPrice": 18.99,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
-  "Crusader Kings III: Wandering Nobles": {
-    "url": "https://www.instant-gaming.com/es/17946-comprar-crusader-kings-iii-wandering-nobles-pc-juego-steam-europe-us-canada/",
-    "name": "Crusader Kings III: Wandering Nobles",
-    "price": "4.74",
-    "imageUrl": "https://gaming-cdn.com/images/products/17946/380x218/crusader-kings-iii-wandering-nobles-pc-juego-steam-europe-us-canada-cover.jpg?v=1730910897",
-    "minPrice": 4.74,
-    "maxPrice": 4.74,
+  "Metaphor: ReFantazio": {
+    "url": "https://www.instant-gaming.com/es/14352-comprar-metaphor-refantazio-pc-juego-steam-europe/",
+    "name": "Metaphor: ReFantazio",
+    "price": "38.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/14352/380x218/metaphor-refantazio-pc-juego-steam-europe-cover.jpg?v=1728921586",
+    "minPrice": 38.99,
+    "maxPrice": 38.99,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
-  "Planet Zoo: Zookeepers Animal Pack": {
-    "url": "https://www.instant-gaming.com/es/17819-comprar-planet-zoo-zookeepers-animal-pack-pc-juego-steam-europe-us-canada/",
-    "name": "Planet Zoo: Zookeepers Animal Pack",
-    "price": "7.49",
-    "imageUrl": "https://gaming-cdn.com/images/products/17819/380x218/planet-zoo-zookeepers-animal-pack-pc-juego-steam-europe-us-canada-cover.jpg?v=1734959153",
-    "minPrice": 7.49,
-    "maxPrice": 7.49,
+  "God of War: Ragnarök - Digital Deluxe Edition": {
+    "url": "https://www.instant-gaming.com/es/16970-comprar-god-of-war-ragnarok-digital-deluxe-edition-digital-deluxe-edition-pc-juego-steam-europe/",
+    "name": "God of War: Ragnarök - Digital Deluxe Edition",
+    "price": "51.59",
+    "imageUrl": "https://gaming-cdn.com/images/products/16970/380x218/god-of-war-ragnarok-digital-deluxe-edition-digital-deluxe-edition-pc-juego-steam-europe-cover.jpg?v=1729767551",
+    "minPrice": 51.59,
+    "maxPrice": 51.59,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
-  "Cult of the Lamb: Pilgrim Pack": {
-    "url": "https://www.instant-gaming.com/es/17366-comprar-cult-of-the-lamb-pilgrim-pack-pc-mac-juego-steam/",
-    "name": "Cult of the Lamb: Pilgrim Pack",
-    "price": "4.62",
-    "imageUrl": "https://gaming-cdn.com/images/products/17366/380x218/cult-of-the-lamb-pilgrim-pack-pc-mac-juego-steam-cover.jpg?v=1729697635",
-    "minPrice": 4.62,
-    "maxPrice": 4.62,
+  "Assassin's Creed Shadows": {
+    "url": "https://www.instant-gaming.com/es/12831-comprar-assassin-s-creed-shadows-pc-juego-ubisoft-connect/",
+    "name": "Assassin's Creed Shadows",
+    "price": "49.89",
+    "imageUrl": "https://gaming-cdn.com/images/products/12831/380x218/assassin-s-creed-shadows-pc-juego-ubisoft-connect-cover.jpg?v=1737668444",
+    "minPrice": 49.89,
+    "maxPrice": 49.89,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
-  "Silent Hill 2": {
-    "url": "https://www.instant-gaming.com/es/13083-comprar-silent-hill-2-pc-juego-steam-europe/",
-    "name": "Silent Hill 2",
-    "price": "37.50",
-    "imageUrl": "https://gaming-cdn.com/images/products/13083/380x218/silent-hill-2-pc-juego-steam-europe-cover.jpg?v=1733905873",
-    "minPrice": 37.5,
-    "maxPrice": 37.5,
+  "Satisfactory": {
+    "url": null,
+    "name": "Satisfactory",
+    "price": "36.60",
+    "imageUrl": "https://gaming-cdn.com/images/products/4229/380x218/satisfactory-pc-juego-steam-cover.jpg?v=1727346476",
+    "minPrice": 36.6,
+    "maxPrice": 36.6,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
-  "NBA 2K25 All-Star Edition": {
-    "url": "https://www.instant-gaming.com/es/17237-comprar-nba-2k25-all-star-edition-all-star-edition-pc-juego-steam-europe/",
-    "name": "NBA 2K25 All-Star Edition",
-    "price": "37.99",
-    "imageUrl": "https://gaming-cdn.com/images/products/17237/380x218/nba-2k25-all-star-edition-all-star-edition-pc-juego-steam-europe-cover.jpg?v=1731919759",
-    "minPrice": 37.99,
-    "maxPrice": 37.99,
+  "Crusader Kings III: Roads to Power": {
+    "url": "https://www.instant-gaming.com/es/17579-comprar-crusader-kings-iii-roads-to-power-pc-mac-juego-steam-europe-us-canada/",
+    "name": "Crusader Kings III: Roads to Power",
+    "price": "22.49",
+    "imageUrl": "https://gaming-cdn.com/images/products/17579/380x218/crusader-kings-iii-roads-to-power-pc-mac-juego-steam-europe-us-canada-cover.jpg?v=1727434827",
+    "minPrice": 22.49,
+    "maxPrice": 22.49,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Ace Attorney Investigations Collection": {
-    "url": "https://www.instant-gaming.com/es/17083-comprar-ace-attorney-investigations-collection-collection-pc-juego-steam-europe/",
-    "name": "Ace Attorney Investigations Collection",
-    "price": "22.33",
-    "imageUrl": "https://gaming-cdn.com/images/products/17083/380x218/ace-attorney-investigations-collection-collection-pc-juego-steam-europe-cover.jpg?v=1725541255",
-    "minPrice": 22.33,
-    "maxPrice": 22.33,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "Planet Coaster 2": {
-    "url": "https://www.instant-gaming.com/es/17213-comprar-planet-coaster-2-pc-juego-steam-europe-us-canada/",
-    "name": "Planet Coaster 2",
-    "price": "34.64",
-    "imageUrl": "https://gaming-cdn.com/images/products/17213/380x218/planet-coaster-2-pc-juego-steam-europe-us-canada-cover.jpg?v=1731594936",
-    "minPrice": 34.64,
-    "maxPrice": 34.64,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "EA Sports FC 25": {
-    "url": "https://www.instant-gaming.com/es/17831-comprar-ea-sports-fc-25-pc-juego-ea-app/",
-    "name": "EA Sports FC 25",
-    "price": null,
-    "imageUrl": "https://gaming-cdn.com/images/products/17831/380x218/ea-sports-fc-25-pc-juego-ea-app-cover.jpg?v=1732622697",
-    "minPrice": null,
-    "maxPrice": null,
-    "priceClass": "",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
-  },
-  "SCP: Fragmented Minds": {
-    "url": "https://www.instant-gaming.com/es/18601-comprar-scp-fragmented-minds-pc-juego-steam-europe-us-canada/",
-    "name": "SCP: Fragmented Minds",
-    "price": "6.88",
-    "imageUrl": "https://gaming-cdn.com/images/products/18601/380x218/scp-fragmented-minds-pc-juego-steam-europe-us-canada-cover.jpg?v=1738059290",
-    "minPrice": 6.88,
-    "maxPrice": 6.88,
-    "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "Indiana Jones y el Gran Círculo": {
     "url": "https://www.instant-gaming.com/es/8043-comprar-indiana-jones-y-el-gran-circulo-pc-juego-steam/",
@@ -587,7 +407,7 @@
     "minPrice": 52.99,
     "maxPrice": 52.99,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   },
   "Necroking": {
     "url": "https://www.instant-gaming.com/es/17531-comprar-necroking-pc-juego-steam/",
@@ -597,6 +417,186 @@
     "minPrice": 1.32,
     "maxPrice": 1.32,
     "priceClass": "equal",
-    "lastSeen": "2025-01-29T18:26:26.282Z"
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Final Fantasy VII Rebirth Digital Deluxe Edition": {
+    "url": "https://www.instant-gaming.com/es/18308-comprar-final-fantasy-vii-rebirth-digital-deluxe-edition-digital-deluxe-edition-pc-juego-steam/",
+    "name": "Final Fantasy VII Rebirth Digital Deluxe Edition",
+    "price": "49.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/18308/380x218/final-fantasy-vii-rebirth-digital-deluxe-edition-digital-deluxe-edition-pc-juego-steam-cover.jpg?v=1737652072",
+    "minPrice": 49.99,
+    "maxPrice": 49.99,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Sengoku Dynasty": {
+    "url": "https://www.instant-gaming.com/es/10687-comprar-sengoku-dynasty-pc-juego-steam/",
+    "name": "Sengoku Dynasty",
+    "price": "18.77",
+    "imageUrl": "https://gaming-cdn.com/images/products/10687/380x218/sengoku-dynasty-pc-juego-steam-cover.jpg?v=1696585060",
+    "minPrice": 18.77,
+    "maxPrice": 18.77,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Legacy of Kain Soul Reaver 1&2 Remastered": {
+    "url": "https://www.instant-gaming.com/es/17618-comprar-legacy-of-kain-soul-reaver-1-2-remastered-pc-juego-steam-europe/",
+    "name": "Legacy of Kain Soul Reaver 1&2 Remastered",
+    "price": "16.23",
+    "imageUrl": "https://gaming-cdn.com/images/products/17618/380x218/legacy-of-kain-soul-reaver-1-2-remastered-pc-juego-steam-europe-cover.jpg?v=1733819518",
+    "minPrice": 16.23,
+    "maxPrice": 16.68,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Ravenswatch": {
+    "url": "https://www.instant-gaming.com/es/13615-comprar-ravenswatch-pc-juego-steam-europe-us-canada/",
+    "name": "Ravenswatch",
+    "price": "14.41",
+    "imageUrl": "https://gaming-cdn.com/images/products/13615/380x218/ravenswatch-pc-juego-steam-europe-us-canada-cover.jpg?v=1733330073",
+    "minPrice": 14.41,
+    "maxPrice": 14.41,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Planet Zoo: Zookeepers Animal Pack": {
+    "url": "https://www.instant-gaming.com/es/17819-comprar-planet-zoo-zookeepers-animal-pack-pc-juego-steam-europe-us-canada/",
+    "name": "Planet Zoo: Zookeepers Animal Pack",
+    "price": "7.49",
+    "imageUrl": "https://gaming-cdn.com/images/products/17819/380x218/planet-zoo-zookeepers-animal-pack-pc-juego-steam-europe-us-canada-cover.jpg?v=1734959153",
+    "minPrice": 7.49,
+    "maxPrice": 7.49,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Hearts of Iron IV: Götterdämmerung": {
+    "url": null,
+    "name": "Hearts of Iron IV: Götterdämmerung",
+    "price": "19.49",
+    "imageUrl": "https://gaming-cdn.com/images/products/17963/380x218/hearts-of-iron-iv-gotterdammerung-pc-mac-juego-steam-europe-us-canada-cover.jpg?v=1732014360",
+    "minPrice": 19.49,
+    "maxPrice": 19.49,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Age of Mythology: Retold Premium Edition": {
+    "url": null,
+    "name": "Age of Mythology: Retold Premium Edition",
+    "price": "33.79",
+    "imageUrl": "https://gaming-cdn.com/images/products/17567/380x218/age-of-mythology-retold-premium-edition-premium-edition-pc-juego-steam-cover.jpg?v=1726502419",
+    "minPrice": 33.79,
+    "maxPrice": 33.79,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Silent Hill 2": {
+    "url": "https://www.instant-gaming.com/es/13083-comprar-silent-hill-2-pc-juego-steam-europe/",
+    "name": "Silent Hill 2",
+    "price": "37.50",
+    "imageUrl": "https://gaming-cdn.com/images/products/13083/380x218/silent-hill-2-pc-juego-steam-europe-cover.jpg?v=1733905873",
+    "minPrice": 37.5,
+    "maxPrice": 37.5,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Core Keeper": {
+    "url": "https://www.instant-gaming.com/es/10564-comprar-core-keeper-pc-juego-steam-europe/",
+    "name": "Core Keeper",
+    "price": "11.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/10564/380x218/core-keeper-pc-juego-steam-europe-cover.jpg?v=1734088268",
+    "minPrice": 11.99,
+    "maxPrice": 11.99,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Total War: Warhammer III - Omens of Destruction": {
+    "url": "https://www.instant-gaming.com/es/18224-comprar-total-war-warhammer-iii-omens-of-destruction-pc-juego-steam-europe/",
+    "name": "Total War: Warhammer III - Omens of Destruction",
+    "price": "18.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/18224/380x218/total-war-warhammer-iii-omens-of-destruction-pc-juego-steam-europe-cover.jpg?v=1734077652",
+    "minPrice": 18.99,
+    "maxPrice": 18.99,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Ender Magnolia: Bloom in the Mist": {
+    "url": "https://www.instant-gaming.com/es/16573-comprar-ender-magnolia-bloom-in-the-mist-pc-juego-steam/",
+    "name": "Ender Magnolia: Bloom in the Mist",
+    "price": "19.31",
+    "imageUrl": "https://gaming-cdn.com/images/products/16573/380x218/ender-magnolia-bloom-in-the-mist-pc-juego-steam-cover.jpg?v=1737719387",
+    "minPrice": 19.31,
+    "maxPrice": 19.89,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Black Myth: Wukong Digital Deluxe Edition": {
+    "url": null,
+    "name": "Black Myth: Wukong Digital Deluxe Edition",
+    "price": "57.23",
+    "imageUrl": "https://gaming-cdn.com/images/products/17097/380x218/black-myth-wukong-digital-deluxe-edition-digital-deluxe-edition-pc-juego-steam-europe-us-canada-cover.jpg?v=1724143252",
+    "minPrice": 57.23,
+    "maxPrice": 57.23,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Windblown": {
+    "url": "https://www.instant-gaming.com/es/15540-comprar-windblown-pc-juego-steam-europe-us-canada/",
+    "name": "Windblown",
+    "price": "15.49",
+    "imageUrl": "https://gaming-cdn.com/images/products/15540/380x218/windblown-pc-juego-steam-europe-us-canada-cover.jpg?v=1734078223",
+    "minPrice": 15.49,
+    "maxPrice": 15.49,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Final Fantasy VII Remake & Rebirth Digital Deluxe Twin Pack": {
+    "url": "https://www.instant-gaming.com/es/18322-comprar-final-fantasy-vii-remake-rebirth-digital-deluxe-twin-pack-digital-deluxe-twin-pack-pc-juego-steam/",
+    "name": "Final Fantasy VII Remake & Rebirth Digital Deluxe Twin Pack",
+    "price": "69.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/18322/380x218/final-fantasy-vii-remake-rebirth-digital-deluxe-twin-pack-digital-deluxe-twin-pack-pc-juego-steam-cover.jpg?v=1737652109",
+    "minPrice": 69.99,
+    "maxPrice": 69.99,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "NBA 2K25 All-Star Edition": {
+    "url": "https://www.instant-gaming.com/es/17237-comprar-nba-2k25-all-star-edition-all-star-edition-pc-juego-steam-europe/",
+    "name": "NBA 2K25 All-Star Edition",
+    "price": "37.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/17237/380x218/nba-2k25-all-star-edition-all-star-edition-pc-juego-steam-europe-cover.jpg?v=1731919759",
+    "minPrice": 37.99,
+    "maxPrice": 37.99,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Microsoft Flight Simulator 2024 (PC / Xbox Series X|S)": {
+    "url": "https://www.instant-gaming.com/es/17684-comprar-microsoft-flight-simulator-2024-pc-xbox-series-x-s-pc-xbox-series-x-s-juego-microsoft-store/",
+    "name": "Microsoft Flight Simulator 2024 (PC / Xbox Series X|S)",
+    "price": "48.49",
+    "imageUrl": "https://gaming-cdn.com/images/products/17684/380x218/microsoft-flight-simulator-2024-pc-xbox-series-x-s-pc-xbox-series-x-s-juego-microsoft-store-cover.jpg?v=1737544631",
+    "minPrice": 48.49,
+    "maxPrice": 48.49,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Dragon Ball: Sparking! ZERO": {
+    "url": null,
+    "name": "Dragon Ball: Sparking! ZERO",
+    "price": "52.99",
+    "imageUrl": "https://gaming-cdn.com/images/products/15531/380x218/dragon-ball-sparking-zero-pc-juego-steam-europe-cover.jpg?v=1728469573",
+    "minPrice": 52.99,
+    "maxPrice": 52.99,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
+  },
+  "Just Dance 2025 Edition": {
+    "url": null,
+    "name": "Just Dance 2025 Edition",
+    "price": "22.54",
+    "imageUrl": "https://gaming-cdn.com/images/products/17181/380x218/just-dance-2025-edition-2025-edition-switch-juego-nintendo-eshop-europe-cover.jpg?v=1730893506",
+    "minPrice": 22.54,
+    "maxPrice": 22.54,
+    "priceClass": "equal",
+    "lastSeen": "2025-01-30T12:27:35.790Z"
   }
 }
